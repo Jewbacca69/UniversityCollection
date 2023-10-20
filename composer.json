@@ -1,0 +1,19 @@
+{
+    "name": "vilnis/university-collection",
+    "description": "University collection",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "UniversityCollection\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jewbacca69",
+            "email": "vilnisgrinbergs22@proton.me"
+        }
+    ],
+    "require": {
+        "symfony/http-client": "^5.4"
+    }
+}
